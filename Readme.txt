@@ -1,1 +1,1 @@
-Test for STM32 F303k8
+Test for STM32f303K8
